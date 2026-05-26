@@ -4,7 +4,7 @@ Game Developer & Android Software Engineer based in Lebanon. I build high-qualit
 
 - 🛠️ Currently developing premium utility tools and immersive video games.
 - 💬 Ask me about **Android accessibility, Kotlin, Unity, and game physics**.
-- 🌐 Portfolio / LinkTree: [mkhalil.link](http://mkhalil.link/)
+- 🌐 Portfolio / LinkTree: [mkhalil.net](http://mkhalil.net/)
 
 ---
 
