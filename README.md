@@ -5,7 +5,7 @@
 <h3 align="center">Turning complex logic into smooth, user-focused experiences.</h3>
 
 <p align="center">
-  <a href="http://mkhalil.net/">
+  <a href="http://mkhalil.link/">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=target&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mohamaddkhalill/">
@@ -23,10 +23,10 @@
 
 ## ⚡ About Me
 
-- 🛠️ Currently building **premium utility tools** and **immersive video games**.
-- 💡 Specializing in **Android accessibility**, **Kotlin**, **Unity**, and **game physics**.
-- 🌍 Based in Lebanon. Always exploring new technologies to push the limits of mobile and desktop software.
-- 💬 Ask me about anything related to Game Dev or Android!
+- 🛠️ Currently building **premium utility tools** and creating **stunning visual designs**.
+- 💡 Specializing in **Android development**, **Kotlin**, **UI/UX design**, and **branding**.
+- 🌍 Based in Lebanon. Always exploring new technologies to push the limits of mobile software and digital art.
+- 💬 Ask me about anything related to Software Development or Graphic Design!
 
 ---
 
@@ -34,11 +34,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,cs,cpp,androidstudio,unity,dotnet,sqlite,git,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,git,github,figma,ps,ai&perline=10" />
   </a>
 </p>
 
-**Specializations:** Accessibility Services, Sensors Integration, Game Systems Architecture.
+**Specializations:** Mobile App Development, UI/UX Design, Visual Branding, and User-Centric Experiences.
 
 ---
 
