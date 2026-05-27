@@ -50,7 +50,7 @@
       <h3>🎯 TakTik</h3>
       <p>An Android app for tracking and syncing live TikTok sessions using Eulerstream. Real-time viewer tracking and history.</p>
       <a href="https://github.com/mohamaddkhalill/taktik">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamaddkhalill&repo=taktik&theme=radical&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamaddkhalill&amp;repo=taktik&amp;theme=radical" />
       </a><br/>
       <br/>
       <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
@@ -60,7 +60,7 @@
       <h3>🔊 Blip Voice</h3>
       <p>Android background utility that completely suppresses the painful loud blip WhatsApp plays between consecutive voice messages.</p>
       <a href="https://github.com/mohamaddkhalill/blip-voice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamaddkhalill&repo=blip-voice&theme=radical&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamaddkhalill&amp;repo=blip-voice&amp;theme=radical" />
       </a><br/>
       <br/>
       <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
@@ -70,7 +70,7 @@
       <h3>🎮 Taktik Management Studio</h3>
       <p>A strategic game studio management simulation built with high flexibility and custom game architecture systems.</p>
       <a href="https://github.com/mohamaddkhalill/Taktik-Management-Studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamaddkhalill&repo=Taktik-Management-Studio&theme=radical&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamaddkhalill&amp;repo=Taktik-Management-Studio&amp;theme=radical" />
       </a><br/>
       <br/>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -84,6 +84,6 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamaddkhalill&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamaddkhalill&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamaddkhalill&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamaddkhalill&amp;theme=radical&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" />
 </div>
