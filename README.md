@@ -5,7 +5,7 @@
 <h3 align="center">Turning complex logic into smooth, user-focused experiences.</h3>
 
 <p align="center">
-  <a href="http://mkhalil.link/">
+  <a href="http://mkhalil.net/">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=target&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mohamaddkhalill/">
