@@ -1,49 +1,89 @@
-# Hi, I'm Mohamad Khalil 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohamad%20Khalil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Android%20Engineer&descAlignY=55&descAlign=50" />
+</div>
 
-Game Developer & Android Software Engineer based in Lebanon. I build high-quality solutions for mobile and desktop, turning complex logic into smooth, user-focused experiences.
+<h3 align="center">Turning complex logic into smooth, user-focused experiences.</h3>
 
-- 🛠️ Currently developing premium utility tools and immersive video games.
-- 💬 Ask me about **Android accessibility, Kotlin, Unity, and game physics**.
-- 🌐 Portfolio / LinkTree: [mkhalil.net](http://mkhalil.net/)
+<p align="center">
+  <a href="http://mkhalil.link/">
+    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=target&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mohamaddkhalill/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@mohamaddkhalill">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@mohamaddkhalill">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📱 Featured Projects
+## ⚡ About Me
 
-<table>
+- 🛠️ Currently building **premium utility tools** and **immersive video games**.
+- 💡 Specializing in **Android accessibility**, **Kotlin**, **Unity**, and **game physics**.
+- 🌍 Based in Lebanon. Always exploring new technologies to push the limits of mobile and desktop software.
+- 💬 Ask me about anything related to Game Dev or Android!
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,cs,cpp,androidstudio,unity,dotnet,sqlite,git,github&perline=10" />
+  </a>
+</p>
+
+**Specializations:** Accessibility Services, Sensors Integration, Game Systems Architecture.
+
+---
+
+## 📱 Featured Projects
+
+<table align="center">
   <tr>
-    <td width="50%">
-      <h4>🔊 <a href="https://github.com/mohamaddkhalill/blip-voice">Blip Voice</a></h4>
-      <p>An Android background utility app that temporarily suppresses the painful loud blip WhatsApp plays between consecutive voice messages when held to the ear.</p>
-      <code>Kotlin</code> <code>Android SDK</code> <code>Accessibility API</code>
+    <td width="33%" valign="top" align="center">
+      <h3>🎯 TakTik</h3>
+      <p>An Android app for tracking and syncing live TikTok sessions using Eulerstream. Real-time viewer tracking and history.</p>
+      <a href="https://github.com/mohamaddkhalill/taktik">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamaddkhalill&repo=taktik&theme=radical&hide_border=true&bg_color=0D1117" />
+      </a><br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
     </td>
-    <td width="50%">
-      <h4>🎮 <a href="https://github.com/mohamaddkhalill/Taktik-Management-Studio">Taktik Management Studio</a></h4>
+    <td width="33%" valign="top" align="center">
+      <h3>🔊 Blip Voice</h3>
+      <p>Android background utility that completely suppresses the painful loud blip WhatsApp plays between consecutive voice messages.</p>
+      <a href="https://github.com/mohamaddkhalill/blip-voice">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamaddkhalill&repo=blip-voice&theme=radical&hide_border=true&bg_color=0D1117" />
+      </a><br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Accessibility_API-3DDC84?style=flat-square&logo=android&logoColor=white" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🎮 Taktik Management Studio</h3>
       <p>A strategic game studio management simulation built with high flexibility and custom game architecture systems.</p>
-      <code>C#</code> <code>Unity Engine</code> <code>Game Dev</code>
+      <a href="https://github.com/mohamaddkhalill/Taktik-Management-Studio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamaddkhalill&repo=Taktik-Management-Studio&theme=radical&hide_border=true&bg_color=0D1117" />
+      </a><br/>
+      <br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Tech Stack & Skills
+## 📈 GitHub Analytics
 
-- **Languages:** `Kotlin`, `Java`, `C#`, `C++`, `SQL`
-- **Frameworks & Engines:** `Android SDK`, `Unity Engine`, `Dotnet`
-- **Specializations:** `Accessibility Services`, `Sensors integration`, `Game Systems Architecture`
-
----
-
-### 🔗 Connect With Me
-
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30">](https://www.instagram.com/mohamaddkhalill/)
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30">](https://www.youtube.com/@mohamaddkhalill)
-[<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="30">](https://www.tiktok.com/@mohamaddkhalill)
-[<img src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=target&logoColor=white" height="30">](http://mkhalil.link/)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamaddkhalill&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamaddkhalill&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamaddkhalill&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
