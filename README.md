@@ -5,7 +5,7 @@
 <h3 align="center">Turning complex logic into smooth, user-focused experiences.</h3>
 
 <p align="center">
-  <a href="http://mkhalil.net/">
+  <a href="http://mkhalil.link/">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=target&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mohamaddkhalill/">
@@ -46,35 +46,25 @@
 
 <table align="center">
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <h3>🎯 TakTik</h3>
       <p>An Android app for tracking and syncing live TikTok sessions using Eulerstream. Real-time viewer tracking and history.</p>
       <a href="https://github.com/mohamaddkhalill/taktik">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamaddkhalill&amp;repo=taktik&amp;theme=radical" />
+        <img src="https://gh-card.dev/repos/mohamaddkhalill/taktik.svg" />
       </a><br/>
       <br/>
       <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <h3>🔊 Blip Voice</h3>
       <p>Android background utility that completely suppresses the painful loud blip WhatsApp plays between consecutive voice messages.</p>
       <a href="https://github.com/mohamaddkhalill/blip-voice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamaddkhalill&amp;repo=blip-voice&amp;theme=radical" />
+        <img src="https://gh-card.dev/repos/mohamaddkhalill/blip-voice.svg" />
       </a><br/>
       <br/>
       <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Accessibility_API-3DDC84?style=flat-square&logo=android&logoColor=white" />
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🎮 Taktik Management Studio</h3>
-      <p>A strategic game studio management simulation built with high flexibility and custom game architecture systems.</p>
-      <a href="https://github.com/mohamaddkhalill/Taktik-Management-Studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamaddkhalill&amp;repo=Taktik-Management-Studio&amp;theme=radical" />
-      </a><br/>
-      <br/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -84,6 +74,5 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamaddkhalill&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamaddkhalill&amp;theme=radical&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" />
 </div>
