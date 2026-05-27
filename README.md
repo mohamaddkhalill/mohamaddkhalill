@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohamad%20Khalil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Android%20Engineer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohamad%20Khalil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Graphic%20Designer&descAlignY=55&descAlign=50" />
 </div>
 
 <h3 align="center">Turning complex logic into smooth, user-focused experiences.</h3>
